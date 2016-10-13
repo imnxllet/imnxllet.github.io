@@ -1,0 +1,16 @@
+{
+   "projects": [
+       {
+           "title": "ICU Membership System",
+           "poster": "./img/portfolio/icu_member_1.png",
+           "description": "不記得怎麼用廣東話追心儀的男神女神？好學的你還想學多點廣東話？ICU最懂你！萬眾期待 你們朝思暮想的canto class又回來了！",
+           "languages": "Node.js"
+       },
+       {
+           "title": "FastLine",
+           "poster": "./img/portfolio/fastline_1.png",
+           "description": "硝煙四起的校園，為了自己的班集體榮譽而戰！究竟誰能帶領同學們獲得最終的勝利，登上會長的寶座呢?!",
+           "languages": "Node.js"
+       }
+   ]
+}
