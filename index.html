@@ -39,7 +39,13 @@ opacity:0.9;
 height:200px;
 width:200px;
 filter:alpha(opacity=80);
-}</style>
+}
+
+#projects_list img{
+	/*width: 600px;*/
+	height: 190px;
+}
+</style>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -56,16 +62,16 @@ filter:alpha(opacity=80);
 
    $.getJSON('./json_data/projects.json', function(data) {
        $.each(data.projects, function(i, f) {
-          var project = "<div class=\"col-md-4 col-sm-6 portfolio-item\">"+
+          var project = "<div class=\"col-sm-4 portfolio-item\">"+ "<div class=\"card card-border\" >"+
                     "<a href=\"#portfolioModal"+ i +"\" class=\"portfolio-link\" data-toggle=\"modal\">"+
                         "<div class=\"portfolio-hover\">"+
                             "<div class=\"portfolio-hover-content\">" +
                                 "<i class=\"fa fa-plus fa-3x\"></i>" +
                             "</div>" +
                         "</div>" +
-                       "<img src=\""+ f.poster +"\" class=\"img-responsive\" alt=\"\">" +
+                       "<img src=\""+ f.poster +"\" class=\"img-responsive img-rounded \" alt=\"\">" +
                     "</a><div class=\"portfolio-caption\">"+
-                        "<h4>"+ f.title +"</h4><p class=\"text-muted\">"+ f.languages +"</p></div></div>";
+                        "<h4>"+ f.title +"</h4><p class=\"text-muted\">"+ f.languages +"</p></div></div></div>";
            var project_page =     "<div class=\"portfolio-modal modal fade\" id=\"portfolioModal" + i+"\" tabindex=\"-1\" role=\"dialog\" aria-hidden=\"true\">"+"<div class=\"modal-content\">"
             +"<div class=\"close-modal\" data-dismiss=\"modal\">"
                 +"<div class=\"lr\">"
