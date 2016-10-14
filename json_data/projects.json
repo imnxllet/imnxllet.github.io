@@ -3,38 +3,40 @@
        {
            "title": "ICU Membership System",
            "poster": "./img/portfolio/icu_member_1.png",
-           "description": "不記得怎麼用廣東話追心儀的男神女神？好學的你還想學多點廣東話？ICU最懂你！萬眾期待 你們朝思暮想的canto class又回來了！",
-           "languages": "Node.js, Semantics UI"
+           "description": "A online web system to manage student club's member data.",
+           "languages": "Node.js, Express, Semantics UI, EJS, MongoDB(MLab)"
        },
        {
            "title": "FastLine",
            "poster": "./img/portfolio/fastline_1.png",
-           "description": "硝煙四起的校園，為了自己的班集體榮譽而戰！究竟誰能帶領同學們獲得最終的勝利，登上會長的寶座呢?!",
-           "languages": "Node.js, Semantics UI"
+           "description": "A web app for students on campus to order food from food trucks. Both students and food truck owner can login and use it.
+           <a href="">https://github.com/imnxllet/FastLine/blob/master/report.pdf</a>",
+           "languages": "Node.js, Express, Semantics UI, EJS, MongoDB(MLab)"
        },
         {
            "title": "Patient Management App",
            "poster": "./img/portfolio/erapp_welcome.PNG",
-           "description": "硝煙四起的校園，為了自己的班集體榮譽而戰！究竟誰能帶領同學們獲得最終的勝利，登上會長的寶座呢?!",
+           "description": "A simple Android app for physicians and nurses to manage and collect patient's information.",
            "languages": "Java(Android)"
        },
               {
            "title": "ICU Website",
            "poster": "./img/portfolio/icu_web.png",
-           "description": "硝煙四起的校園，為了自己的班集體榮譽而戰！究竟誰能帶領同學們獲得最終的勝利，登上會長的寶座呢?!",
+           "description": "A team project with my student club (International Cantonese Union) tech executives.<br/>A formal website for the club, ICU.",
            "languages": "Javascript, HTML, Github Page, Bootstrap"
        },
        {
            "title": "TapTap Bug Game",
            "poster": "./img/portfolio/taptapbug.JPG",
-           "description": "硝煙四起的校園，為了自己的班集體榮譽而戰！究竟誰能帶領同學們獲得最終的勝利，登上會長的寶座呢?!",
+           "description": "A simple html game to kill bugs in order to prevent them from eating burgers.",
            "languages": "Javascript, HTML, Canvas"
        },
 
               {
            "title": "Articles Searching Engine",
            "poster": "./img/portfolio/moneris_search.png",
-           "description": "硝煙四起的校園，為了自己的班集體榮譽而戰！究竟誰能帶領同學們獲得最終的勝利，登上會長的寶座呢?!",
+           "description": "A C# web app done during my current internship period.<br/> It connects to Moneris' online salesforce platform and Microsoft Dynamics
+           to perform an FAQ(Articles) search via their API.",
            "languages": "C#, Bootstrap"
        }
    ]
