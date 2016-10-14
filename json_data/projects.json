@@ -4,14 +4,13 @@
            "title": "ICU Membership System",
            "poster": "./img/portfolio/icu_member_1.png",
            "description": "A online web system to manage student club's member data.",
-           "languages": "Node.js, Express, Semantics UI, EJS, MongoDB(MLab)"
+           "languages": "Node.js, MongoDB(Mlab)"
        },
        {
            "title": "FastLine",
            "poster": "./img/portfolio/fastline_1.png",
-           "description": "A web app for students on campus to order food from food trucks. Both students and food truck owner can login and use it.
-           <a href="">https://github.com/imnxllet/FastLine/blob/master/report.pdf</a>",
-           "languages": "Node.js, Express, Semantics UI, EJS, MongoDB(MLab)"
+           "description": "A web app for students on campus to order food from food trucks. Both students and food truck owner can login and use it. <a href=\"https://github.com/imnxllet/FastLine/blob/master/report.pdf\">More info here.</a>",
+           "languages": "Node.js, MongoDB(Mlab)"
        },
         {
            "title": "Patient Management App",
@@ -23,21 +22,21 @@
            "title": "ICU Website",
            "poster": "./img/portfolio/icu_web.png",
            "description": "A team project with my student club (International Cantonese Union) tech executives.<br/>A formal website for the club, ICU.",
-           "languages": "Javascript, HTML, Github Page, Bootstrap"
+           "languages": "Javascript, HTML, Bootstrap"
        },
        {
            "title": "TapTap Bug Game",
            "poster": "./img/portfolio/taptapbug.JPG",
-           "description": "A simple html game to kill bugs in order to prevent them from eating burgers. Play it at <a href="imnxllet.github.io/taptaobug/index.html"></a>",
+           "description": "A simple html game to kill bugs in order to prevent them from eating burgers. Play it at <a href=\"./taptapbug/index.html\">Here</a>",
            "languages": "Javascript, HTML, Canvas"
        },
-
-              {
+        {
            "title": "Articles Searching Engine",
            "poster": "./img/portfolio/moneris_search.png",
-           "description": "A C# web app done during my current internship period.<br/> It connects to Moneris' online salesforce platform and Microsoft Dynamics
-           to perform an FAQ(Articles) search via their API.",
+           "description": "A C# web app done during my current internship period.<br/> It connects to Moneris' online salesforce platform and Microsoft Dynamics to perform an FAQ(Articles) search via their API.",
            "languages": "C#, Bootstrap"
        }
+
+
    ]
 }

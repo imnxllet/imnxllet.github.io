@@ -28,7 +28,7 @@ $('.navbar-collapse ul li a').click(function() {
 
 $(function(){
   $(".element").typed({
-    strings: ["A Student.^1000", "A Programmer.^1000", "A Daydreamer.^1000", "Chris Lu."],
+    strings: ["what I am.^1000", "A Programmer.^1000", "A Daydreamer.^1000", "Chris Lu."],
     typeSpeed: -1,
     loop: false,
      showCursor: true	
