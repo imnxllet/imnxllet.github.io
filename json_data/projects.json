@@ -22,13 +22,13 @@
            "title": "ICU Website",
            "poster": "./img/portfolio/icu_web.png",
            "description": "A team project with my student club (International Cantonese Union) tech executives.<br/>A formal website for the club, ICU.",
-           "languages": "Javascript, HTML, Bootstrap"
+           "languages": "JS, HTML, Bootstrap"
        },
        {
            "title": "TapTap Bug Game",
            "poster": "./img/portfolio/taptapbug.JPG",
            "description": "A simple html game to kill bugs in order to prevent them from eating burgers. Play it at <a href=\"./taptapbug/index.html\">Here</a>",
-           "languages": "Javascript, HTML, Canvas"
+           "languages": "JS, HTML, Canvas"
        },
         {
            "title": "Articles Searching Engine",
