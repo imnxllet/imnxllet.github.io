@@ -28,7 +28,7 @@
        {
            "title": "TapTap Bug Game",
            "poster": "./img/portfolio/taptapbug.JPG",
-           "description": "A simple html game to kill bugs in order to prevent them from eating burgers.",
+           "description": "A simple html game to kill bugs in order to prevent them from eating burgers. Play it at <a href="imnxllet.github.io/taptaobug/index.html"></a>",
            "languages": "Javascript, HTML, Canvas"
        },
 
